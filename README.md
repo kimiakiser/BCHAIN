@@ -1,3 +1,3 @@
-# BCHAIN - Creation of Business Plan and MVP in Solidity # 
+# BCHAIN # 
 
 Details are in the document "EZ Credit Abschlussbericht"
